@@ -1,0 +1,436 @@
+.right {
+    margin-left: 951px;
+    width: 30%;
+    height: 700px;
+    background-color: #c0886A;
+
+}
+
+.left {
+    width: 70.5%;
+    height: 700px;
+    float: left;
+    margin-right: 1%;
+    margin-top: -700px;
+    background-color: #F0D2BF;
+
+}
+
+.nav1 {
+    padding: 35px 68px;
+}
+
+.nav1 a {
+    margin: 10px 0 10px 40px;
+    color: #883100;
+    font-size: 1.5rem;
+
+}
+
+.nav2 {
+    padding: 43px 0px;
+    width: 420px;
+
+}
+
+.nav2 .a1 {
+    margin-left: 55px;
+}
+
+.nav2 .a3 {
+    margin-right: 38px;
+}
+
+.nav2 a {
+    margin: 0px 0 10px 10px;
+}
+
+.nav3 {
+    display: inline-block;
+}
+
+.content img {
+    margin-left: 700px;
+    margin-top: 35px;
+}
+
+.nav1 h1 {
+    margin: -375px 0 0px 210px;
+    font-size: 5.5rem;
+    font-family: cursive;
+    color: #883100;
+    font-style: italic;
+
+}
+
+.HAC h1 {
+    margin: 0px 10px 10px 10px;
+}
+
+p {
+
+    font-family: cursive;
+    color: #883100;
+    font-size: 1.2rem;
+    font-style: italic;
+    text-align: left;
+}
+
+.p1 {
+    margin: 28px 0 -39px 270px;
+}
+
+.p2 {
+    margin: -36px 0 -9px 297px;
+    font-style: italic;
+    color: #c0886A !important;
+}
+
+.btun button {
+    margin: -15px 0 -9px 391px;
+    color: #f8ece9 !important;
+    background-color: #c0886A;
+    padding: 6px 40px;
+    border-radius: 30px;
+    border: 0px;
+    overflow: hidden;
+}
+
+#OH {
+    color: #883100;
+    padding-top: 33px;
+    font-size: xxx-large;
+}
+
+.HAC {
+    text-align: center;
+    background-color: #f8ece9;
+    width: 100%;
+    height: 500px;
+}
+
+.par3 {
+    margin: 50px 10px 60px 410px;
+    background-color: #F0D2BF;
+    width: 934px;
+    height: 300px;
+    padding: 0 130px;
+    font-style: normal !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.par4 {
+    margin-top: -65px;
+
+}
+
+.HAC img {
+    POSITION: relative;
+    TOP: -324PX;
+    LEFT: -320PX;
+    HEIGHT: 220PX;
+}
+
+p #p1 {
+    width: auto;
+    background-color: #C0886A;
+    color: #F8ECE9;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 194px;
+    height: 40px;
+    text-align: center;
+    margin-left: 10px;
+}
+
+p #p2 {
+    width: auto;
+    background-color: #C0886A;
+    color: #F8ECE9;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    margin-left: 16px;
+}
+
+#p4 {
+    background-color: #C0886A;
+    color: #F8ECE9;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 205px;
+    height: 40px;
+    text-align: center;
+    margin-left: 14px;
+}
+
+div .sec3 {
+    background-color: #F0D2BF;
+    width: 100%;
+    height: 400px;
+}
+
+#Магазин {
+    font-size: xxx-large;
+}
+
+.row {
+    margin-right: -57px;
+    margin-left: -44px;
+    margin-top: 30px;
+}
+
+.footer {
+    background-color: #F8ECE9;
+    padding-left: 200PX;
+    color: #C0886A;
+    margin-top: -10px;
+    padding-top: 40px;
+    height: auto;
+}
+
+#a1,
+#a2 {
+    color: #883100;
+}
+
+#pi {
+    padding-left: 1000px;
+    padding-right: 10px;
+}
+
+.sec5 {
+    background-color: #F0D2BF;
+    color: #883100;
+    height: 720px;
+    margin-top: -50px;
+    padding-top: 50px;
+    margin-bottom: -50px;
+
+}
+
+#Галер {
+    margin-bottom: 35px;
+    font-size: xxx-large;
+}
+
+.imgsec5 {
+    height: 500px;
+    width: 1200px;
+}
+
+.sec4 {
+    background-color: #F8ECE9;
+    color: #883100;
+    height: 400px;
+    padding-top: 50px;
+    
+
+}
+
+.sec4 h2 {
+    margin-bottom: 35px;
+    font-size: xxx-large
+}
+
+.row p {
+    font-family: cursive;
+    color: #883100;
+    font-size: 1.3rem;
+    font-style: italic;
+    text-align: center;
+    width: auto;
+}
+
+.sec3 {
+    background-color: #F0D2BF;
+    color: #883100;
+    height: 561px;
+    padding-top: 50px;
+    margin-bottom: -100px;
+    margin-top: -10px;
+}
+
+input {
+    background-color: #C0886A;
+    border-radius: 20px;
+    color: #F8ECE9;
+    border: none;
+    height: 40px;
+    text-align: center;
+    width: 160px;
+}
+
+#p1,
+#p2,
+#p3,
+#p4 {
+    background-color: #C0886A;
+    color: #F8ECE9;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 196px;
+    height: 40px;
+    text-align: center;
+    margin-left: 38px;
+
+}
+
+#p5 {
+    width: 1000px;
+}
+.sec3 img {width: 200px;}
+#p1 , #p2 , #p3 , #p4 {width: 200px;
+margin-left: 36px;}
+#p2 { font-size: 18px; padding-top: 5px;}
+
+.dark .right {
+    background-color: #F0D2BF;
+    box-shadow: 0 7px 93px 0 rgba(245, 163, 163, 0.47);
+color: #fff;
+}
+.dark .left .nav1 a {
+    
+color: #fff;
+}
+
+.dark .left p {
+     color: #fff ;
+    }
+    .dark h1{
+        color: #fff
+    }
+
+  .dark .mainphoto{
+box-shadow:0 7px 93px 0 rgba(245, 163, 163, 0.47);
+    }
+.dark .left {
+    background-color: #674840;
+    box-shadow: 0 7px 93px 0 rgba(250, 250, 250, 0.47);
+    color: #fff;
+}
+
+.dark {
+    background-color: #373939;
+    color: #fff;
+}
+.dark .inputs input {
+    box-shadow: 0 7px 93px 0 rgb(255, 255, 255 , 0.47);
+
+}
+
+.dark .btun button{
+    background-color: #F0D2BF;
+    color: #883100 !important; 
+}
+.dark .HAC {
+    background-color: #674840;
+    box-shadow: 0 7px 93px 0 rgba(250, 250, 250, 0.47);
+}
+.dark .sec3 { background-color: #674840;
+    box-shadow: 0 7px 93px 0 rgba(250, 250, 250, 0.47);
+    
+}
+.dark #OH{
+    color: #fff;
+}
+.dark #p1{
+    background-color: #F0D2BF;
+    color: #883100; 
+}
+.dark #p2{
+    background-color: #F0D2BF;
+    color: #883100;
+}
+.dark #p3{
+    background-color: #F0D2BF;
+    color: #883100;
+}
+.dark #p4{
+    background-color: #F0D2BF;
+    color: #883100;
+}
+.dark #inp3{
+    background-color: #F0D2BF;
+    color: #883100;
+}
+
+.dark #Магазин{
+    color:#fff;
+}
+
+.dark .sec5 {
+    background-color: #674840;
+    box-shadow: 0 7px 93px 0 rgba(250, 250, 250, 0.47);
+    color:#fff;
+}
+
+.font{
+    font-size:150%;
+}
+.font .butn input{
+    font-size: large;
+}
+.font #inp3{
+   
+    width: 220px;
+}
+.font .sec3{
+    height: 600px;
+}
+.font #Mf{
+    font-size: 2.5rem;
+}
+.font #hac{
+    font-size: 2.5rem;
+}
+.font #mar{
+    font-size: 2.5rem;
+}
+.font #rep{
+    font-size: 2.5rem;
+}
+.font #en{
+    font-size: 2.5rem;
+}
+.font #OH{
+    font-size: 3.5rem;
+}
+.font #par11{
+    font-size: 1.5rem;
+}
+.font #par22{
+    font-size: 1.5rem;
+}
+.font #hac{
+    height: 700px;
+}
+.font #par33{
+    height: 500px;
+}
+.font #img2{
+    height: 300px;
+    width: 335px;
+    margin-top: -150px;
+}
+.font #Магазин{
+    font-size: 3.5rem;
+}
+.font #incfont {
+    margin: 20px 20px 20px -8px;
+}
+
+#darkmode, #lightmode   {
+    margin: 15px 0 -9px 11px;
+    padding: 6px 40px;
+    border-radius: 30px;
+    border: 0px;
+    overflow: hidden;
+}
+
+#deffont , #incfont{
+    margin: 34px 10px 0 10px;
+    padding: 6px 40px;
+    border-radius: 30px;
+    border: 0px;
+    overflow: hidden;
+}
+
